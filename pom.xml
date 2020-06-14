@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>india</groupId>
-	<artifactId>hyd</artifactId>
+	<artifactId>credit</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	
 	<packaging>war</packaging>
